@@ -1,0 +1,2 @@
+export const DEMO_WALLET_ADDRESS =
+  "9xQeWvG816bUx9EPfVhYScN46nCWgQVPk9JyG9GdM2nb";
